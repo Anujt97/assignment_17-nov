@@ -1,0 +1,19 @@
+
+body{
+    background-color: #E3516E;
+}
+
+.circle{
+    margin-top: 22%;
+    margin-left: 40%;
+    height: 0px;
+    width: 0px;
+    border-radius: 50%;
+    border-style: solid;
+    border-left-color: #51B5A9;
+    border-width: 100px;
+    border-bottom-color: #F7F3D7;
+    border-top-color: #FADE8B;
+    border-right-color: transparent;
+    transform: rotate(45deg);
+}
